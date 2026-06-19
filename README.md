@@ -15,6 +15,12 @@ This project configures a 1D plasma channel to observe:
 
 ---
 
+## Diagnostics
+
+![Plasma Diagnostics for simulation run](images/plasma_diagnostics_wakefield.png)
+
+---
+
 ## 🛠 What is Smilei?
 
 [Smilei](https://smileipic.github.io/Smilei/) is a collaborative, open-source **Particle-in-Cell (PIC)** simulation code optimized for high-performance computing (HPC) architectures. It features:
